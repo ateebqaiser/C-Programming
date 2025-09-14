@@ -36,7 +36,8 @@ To run these programs, you need:
    ./filename
 
 ## On Windows:
-gcc filename.c -o filename.exe
-filename.exe
+   ```bash
+   gcc filename.c -o filename.exe
+   filename.exe
 filename.exeename.c -o filename
    ./filename
