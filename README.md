@@ -39,5 +39,4 @@ To run these programs, you need:
    ```bash
    gcc filename.c -o filename.exe
    filename.exe
-filename.exeename.c -o filename
-   ./filename
+
